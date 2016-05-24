@@ -13,3 +13,4 @@ file:/Users/michael/git/spark-hands-on/)
 org.slf4j:slf4j-simple:1.7.5)
 >
 ```
+4. we use [maven](https://maven.apache.org/index.html) to get jvm libries, http://www.slf4j.org
